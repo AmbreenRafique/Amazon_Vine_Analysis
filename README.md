@@ -2,7 +2,7 @@
 
 ## Overview of the analysis of the Vine program:
 
-The purpose of this analysis is well defined (3 pt)
+The purpose of this analysis is analyzing Amazon reviews by customers and the ones written by members of the paid Amazon Vine program to determine if there is any bias toward favorable reviews from Vine members in your dataset.
 
 
 ## Results:
