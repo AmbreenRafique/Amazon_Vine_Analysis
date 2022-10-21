@@ -7,10 +7,16 @@ The purpose of this analysis is analyzing Amazon reviews by customers and the on
 
 ## Results:
 
-There is a bulleted list that addresses the three questions for unpaid and paid program reviews (7 pt)
+If we look into the data 
+There are 10s of vine program reviews and thousands of coustmers reviews.
+The dataset i reviewed has approximately same percentage of 5 start reviews of random customers as the ones of vine program.
+Vine program reviews doesn't show any biasness. 
 
 
-## Summary:
+## summary :
+The following image shows the cut down of vine program reviews and customers reviews. The 5 start reviews and the percentage of 5 star reviews of both catagories respectively.
 
-The summary states whether or not there is bias, and the results support this statement (2 pt)
-An additional analysis is recommended to support the statement
+![analysis](https://user-images.githubusercontent.com/108497494/197093489-cb79d89b-5692-44c7-b655-2b538eda4f14.jpg)
+
+The percentage of 5 star reviews shows that there is not any bias toward favorable reviews.
+It shows that the Vine programns reviews are fair and trustable.
